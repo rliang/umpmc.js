@@ -1,0 +1,24 @@
+{
+  "name": "umpmc",
+  "version": "1.0.0",
+  "description": "Unbuffered multi-producer multi-consumer queue",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rliang/umpmc.js.git"
+  },
+  "keywords": [
+    "mcmc",
+    "queue",
+    "event",
+    "await",
+    "promise"
+  ],
+  "author": "Ricardo Liang (ricardoliang@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rliang/umpmc.js/issues"
+  },
+  "homepage": "https://github.com/rliang/umpmc.js#readme"
+}
